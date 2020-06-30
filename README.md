@@ -12,8 +12,11 @@ Hilt, built on top of Dagger
 Android application, to show how to use Hilt
 
 The goals of Hilt are:
+
 •To simplify Dagger-related infrastructure for Android apps (70-75% less code lines).
+
 •To create a standard set of components and scopes to ease setup, readability/understanding, and code sharing between apps.
+
 •To provide an easy way to provision different bindings to various build types (e.g. testing, debug, or release).
 
 @HiltAndroidApp (Application)
