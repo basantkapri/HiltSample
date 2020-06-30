@@ -7,7 +7,7 @@ Hilt, built on top of Dagger
 * Well defined Scopes for Android
 * Testing API.
 
-![explainer-dagger-b6ec004283d8c4b3](app/src/main/res/mipmap-xxxhdpi/explainer-dagger-b6ec004283d8c4b3.png)
+![explainer-dagger-b6ec004283d8c4b3](app/src/main/res/mipmap-xxxhdpi/hilt.png)
 
 Android application, to show how to use Hilt
 
